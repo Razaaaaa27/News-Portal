@@ -1,16 +1,33 @@
-# flutter_application_1
+# News Portal
 
-A new Flutter project.
+News Portal adalah aplikasi Flutter yang dirancang sebagai portal berita dengan berbagai fitur utama seperti login, form registrasi, halaman profil pengguna, serta tampilan kategori berita.
 
-## Getting Started
+## 🚀 Fitur Utama
 
-This project is a starting point for a Flutter application.
+- **Autentikasi Pengguna**: Formulir login dan registrasi untuk mengelola akses pengguna.
+- **Halaman Beranda**: Menampilkan berbagai berita utama.
+- **Kategori Berita**: Pengguna dapat menelusuri berita berdasarkan kategori.
+- **Profil Pengguna**: Halaman khusus untuk informasi dan pengaturan pengguna.
+- **Detail Berita**: Melihat detail dari setiap berita yang dipilih.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Instalasi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ikuti langkah berikut untuk menjalankan proyek ini secara lokal:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone repositori ini:
+   ```bash
+   git clone https://github.com/username/news-portal.git
+   cd news-portal
+   ```
+
+2. Install dependensi:
+   ```bash
+   flutter pub get
+   ```
+
+3. Jalankan aplikasi:
+   ```bash
+   flutter run
+   ```
+
+Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
